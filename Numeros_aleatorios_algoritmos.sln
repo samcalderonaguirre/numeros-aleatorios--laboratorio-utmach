@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeros_aleatorios_algoritmos", "Numeros_aleatorios_algoritmos\Numeros_aleatorios_algoritmos.csproj", "{BB8053E8-3E6E-4790-B856-D16ACE152763}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador_Guia_lab_2_Samuel_Calderon_Ag", "Instalador_Guia_lab_2_Samuel_Calderon_Ag\Instalador_Guia_lab_2_Samuel_Calderon_Ag.vdproj", "{C8571195-26F3-45B2-A9A3-4AF4B3549109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8053E8-3E6E-4790-B856-D16ACE152763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8053E8-3E6E-4790-B856-D16ACE152763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8053E8-3E6E-4790-B856-D16ACE152763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8053E8-3E6E-4790-B856-D16ACE152763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8571195-26F3-45B2-A9A3-4AF4B3549109}.Debug|Any CPU.ActiveCfg = Debug
+		{C8571195-26F3-45B2-A9A3-4AF4B3549109}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64E7DD7E-972C-406B-8A0F-C4AEFF2724BE}
+	EndGlobalSection
+EndGlobal
